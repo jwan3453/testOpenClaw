@@ -2,6 +2,7 @@ import { useState } from "react";
 import Head from "next/head";
 
 // ── Icons ──────────────────────────────────────────────────────────────────
+// Updated for feat/newUpdate branch
 
 const HomeIcon = ({ active }: { active?: boolean }) => (
   <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
